@@ -41,3 +41,4 @@ quotes.forEach((v , i)=>{
      container.appendChild(quote_content);
 })
 
+console.log("Hello World");
