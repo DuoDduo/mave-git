@@ -7,6 +7,9 @@
     background-color: blueviolet;
 
 }
+body{
+    height: 100%;
+}
 h3{
 font-size: 40px;
 padding: 30px 0;
@@ -23,6 +26,7 @@ text-align: center;
     grid-template-rows: repeat(4, minmax(0, 1fr));
     padding-inline: 30px;
     margin-left: 30px;
+    height: 100%;
    }
 .quote_content{
     height: 150px;
